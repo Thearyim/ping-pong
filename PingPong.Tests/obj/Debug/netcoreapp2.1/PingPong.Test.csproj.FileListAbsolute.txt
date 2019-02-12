@@ -1,0 +1,17 @@
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp2.1\PingPong.Test.csprojAssemblyReference.cache
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp2.1\PingPong.Test.csproj.CoreCompileInputs.cache
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp2.1\PingPong.Test.AssemblyInfoInputs.cache
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp2.1\PingPong.Test.AssemblyInfo.cs
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp2.1\PingPong.Test.deps.json
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp2.1\PingPong.Test.runtimeconfig.json
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp2.1\PingPong.Test.runtimeconfig.dev.json
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp2.1\PingPong.Test.dll
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp2.1\PingPong.Test.pdb
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp2.1\PingPong.dll
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp2.1\PingPong.pdb
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp2.1\PingPong.Test.csproj.CopyComplete
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp2.1\PingPong.Test.dll
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp2.1\PingPong.Test.pdb

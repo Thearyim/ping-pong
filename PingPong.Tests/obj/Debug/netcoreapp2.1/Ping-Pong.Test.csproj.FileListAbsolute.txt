@@ -1,0 +1,4 @@
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\Ping-Pong.Solution\Ping-Pong.Tests\obj\Debug\netcoreapp2.1\Ping-Pong.Test.csprojAssemblyReference.cache
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\Ping-Pong.Solution\Ping-Pong.Tests\obj\Debug\netcoreapp2.1\Ping-Pong.Test.csproj.CoreCompileInputs.cache
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\Ping-Pong.Solution\Ping-Pong.Tests\obj\Debug\netcoreapp2.1\Ping-Pong.Test.AssemblyInfoInputs.cache
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\Ping-Pong.Solution\Ping-Pong.Tests\obj\Debug\netcoreapp2.1\Ping-Pong.Test.AssemblyInfo.cs

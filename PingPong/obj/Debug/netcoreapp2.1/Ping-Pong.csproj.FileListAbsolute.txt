@@ -1,0 +1,9 @@
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\Ping-Pong.Solution\Ping-Pong\bin\Debug\netcoreapp2.1\Ping-Pong.deps.json
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\Ping-Pong.Solution\Ping-Pong\bin\Debug\netcoreapp2.1\Ping-Pong.dll
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\Ping-Pong.Solution\Ping-Pong\bin\Debug\netcoreapp2.1\Ping-Pong.pdb
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\Ping-Pong.Solution\Ping-Pong\obj\Debug\netcoreapp2.1\Ping-Pong.csprojAssemblyReference.cache
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\Ping-Pong.Solution\Ping-Pong\obj\Debug\netcoreapp2.1\Ping-Pong.csproj.CoreCompileInputs.cache
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\Ping-Pong.Solution\Ping-Pong\obj\Debug\netcoreapp2.1\Ping-Pong.AssemblyInfoInputs.cache
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\Ping-Pong.Solution\Ping-Pong\obj\Debug\netcoreapp2.1\Ping-Pong.AssemblyInfo.cs
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\Ping-Pong.Solution\Ping-Pong\obj\Debug\netcoreapp2.1\Ping-Pong.dll
+C:\Users\Theary\OneDrive\Source\bootcamp\C#\Ping-Pong.Solution\Ping-Pong\obj\Debug\netcoreapp2.1\Ping-Pong.pdb

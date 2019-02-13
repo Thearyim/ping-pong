@@ -16,38 +16,22 @@ namespace PingPong.Tests
     }
 
     [TestMethod]
-    public void GetPingPong_NumberNotDivisibleByThree_False()
-    {
-      PingPong testPingPong = new PingPong();
-      Assert.AreEqual(true, testPingPong.GetPingPongGame(4));
-    }
-
-    [TestMethod]
     public void GetPingPongGame_NumberDivisibleByFive_True()
     {
       PingPong testPingPong = new PingPong();
-      Assert.AreEqual(true, testPingPong.GetPingPongGame(5));
-    }
-
-    [TestMethod]
-    public void GetPingPong_NumberNotDivisibleByFive_False()
-    {
-      PingPong testPingPong = new PingPong();
-      Assert.AreEqual(true, testPingPong.GetPingPongGame(7));
+      string[] expectedResult = new string[] {"1", "2", "ping", "4", "pong"};
+      string[] result = testPingPong.GetPingPongGame(5);
+      CollectionAssert.AreEqual(expectedResult, result);
     }
 
     [TestMethod]
     public void GetPingPongGame_NumberDivisibleByThreeAndFive_True()
     {
       PingPong testPingPong = new PingPong();
-      Assert.AreEqual(true, testPingPong.GetPingPongGame(15));
+      string[] expectedResult = new string[] {"1", "2", "ping", "4", "pong", "ping", "7", "8", "ping", "pong", "11", "ping", "13", "14", "ping-pong"};
+      string[] result = testPingPong.GetPingPongGame(15);
+      CollectionAssert.AreEqual(expectedResult, result);
     }
 
-    [TestMethod]
-    public void GetPingPong_NumberNotDivisibleByThreeAndFive_False()
-    {
-      PingPong testPingPong = new PingPong();
-      Assert.AreEqual(true, testPingPong.GetPingPongGame(16));
-    }
   }
 }

@@ -15,7 +15,11 @@ namespace PingPong
 
             for (int i = 1; i <= number; i++)
             {
-                if (i % 3 == 0)
+                if (i % 3 == 0 && i % 5 == 0)
+                {
+                    input[i-1] = "ping-pong";
+                } 
+                else if (i % 3 == 0)
                 {
                     input[i-1] = "ping";
                 }
@@ -23,10 +27,6 @@ namespace PingPong
                 {
                     input[i-1] = "pong";
                 }
-                else if (i % 3 == 0 && i % 5 == 0)
-                {
-                    input[i-1] = "ping-pong";
-                } 
                 else 
                 {
                     input[i-1] = i.ToString();

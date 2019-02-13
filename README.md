@@ -7,7 +7,7 @@
  _**thearyim@gmail.com**_
 
 ## Description
-**_This is an application that takes a number from a user and returns a range of numbers from 0 to the user inputted with the following exceptions:_**
+**_This is an application that takes a number from a user and returns a range of to the user inputted with the following exceptions:_**
 * _Numbers that are divisible by 3 are replaced with "ping"_
 * _Numbers that are divisible by 5 are replaced with "pong"_
 * _Numbers that are divisible by both 3 and 5 are replaced by "ping-pong"_

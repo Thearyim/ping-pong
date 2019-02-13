@@ -9,9 +9,14 @@ namespace PingPong.Tests
     [TestMethod]
     public void GetPingPongGame_NumberDivisibleByThree_True()
     {
+      //Arrange
       PingPong testPingPong = new PingPong();
+
+      //Act
       string[] expectedResult = new string[] {"1", "2", "ping"};
       string[] result = testPingPong.GetPingPongGame(3);
+      
+      //Assert
       CollectionAssert.AreEqual(expectedResult, result);
     }
 
